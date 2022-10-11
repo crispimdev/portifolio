@@ -5,17 +5,18 @@ div#cima {
  height: 300px;
  background-color: rgb(246, 255, 127);
  border: 2px black solid;
+ padding: 30px ;
 
 }
-img { position: relative;
-     width: 250px;
-     height: 200px;
-     left: 500px;
-    margin: center;}
 
 
 h1 { text-align: center;}
-div#meio {}
+div#meio { background-color: rgb(225, 70, 228);
+        width: 1300px;
+
+        height: 400px;
+        padding: 30px;
+       }
 div#fim {}
 footer{
     background-color: black;
